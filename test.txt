@@ -1,0 +1,105 @@
+rtificial Intelligence (AI) approaches have been increasingly used in financial markets as technology advances. 
+through AI techniques. It reviews 143 research articles that implemented AI techniques in financial trading 
+perspectives: the financial trading market and the asset type, the trading analysis type considered along with the 
+AI technique, and the AI techniques utilized in the trading market, the estimation and performance metrics of the 
+proposed models. The selected research articles were published between 2015 and 2023, and this review ad-
+predictive models. Moreover, we found that technical analysis is more adopted compared to fundamental 
+analysis. Furthermore, 16% of the selected research articles entirely automate the trading process. In addition, 
+we identified 40 different AI techniques that are used as standalone and hybrid models. Among these techniques, 
+deep learning techniques are the most frequently used in financial trading markets. Building prediction models 
+for financial markets using AI is a promising field of research, and academics have already deployed several 
+machine learning models. As a result of this evaluation, we provide recommendations and guidance to 
+technology breakthroughs and improvements, Artificial Intelligence 
+(AI) approaches have become widely used in financial markets, altering 
+represented by financial technology, or FinTech, which uses technology 
+automated trading, investments, insurance, and risk management (Gai 
+AI has proven beneficial in the financial sector in areas such as 
+process automation, risk management, and customer service develop-
+advanced analytics and natural language processing, automated repet-
+itive tasks, and risk assessment and reduction by analyzing large data-
+sets with AI algorithms. AI is also used in the banking industry, where it 
+areas. AI is revolutionizing the investment and insurance industries by 
+facilitating automated risk management, tailored investment programs, 
+and market forecasting (Ferreira et al., 2021). 
+integrating AI in the financial markets. Significant challenges include 
+data quality, ultra-high frequency data processing, and economic 
+AI-enhanced algorithmic trading significantly impacts financial 
+trading by mining critical data and providing inexpensive and easily 
+accessible tools that benefit everyone, not just companies. AI investing 
+AI, allowing them to learn from the trading records of thousands of 
+learning algorithms that discover patterns in data and generate pre-
+dictions. As a result, AI algorithmic trading offers several benefits and 
+Li et al., 2020). For example, AI’s ability to respond to market condi-
+patterns that humans cannot capture due to the massive amount of data, 
+achievable with incredibly powerful computers and AI technology. 
+or fear. On the other hand, AI algorithmic trading is based on statistical, 
+confident conclusions created by examining past data and a wide range 
+Even though AI is frequently used in financial markets, researchers 
+encounter several challenges. One of the primary difficulties is data, 
+which includes data quality, ultra-high frequency data processing, and 
+rapidly adding new data sources such as social mainstream media and 
+In the financial trading industry, AI techniques have become vital 
+technology’s quick development and application in the financial mar-
+kets, there is still a substantial gap in systematic reviews of AI techniques 
+investigation to comprehend the state of AI approaches and trading 
+analysis tools for financial market trading. To the best of our knowledge, 
+no previous study has systematically focused on AI techniques and ap-
+on using AI in financial trading markets. This study is an overview of 
+which AI approaches are commonly employed and which models exploit 
+scholars with a better grasp of the present level of AI progress and use in 
+the asset type, (ii) the trading analysis type considered along with the AI 
+technique, and (iii) the AI techniques utilized in the trading market, (iv) 
+the estimation and performance metrics of the proposed models. 
+2.2. Trading analysis types 
+evaluate patterns. Traders typically use one or a mix of these analysis 
+a) Fundamental analysis 
+The fundamental analysis approach consists of analyzing the impact 
+the significant events and economic data that affect the market. It de-
+b) Technical analysis 
+Technical analysis is based on statistical methods and charts that 
+trends that they might exploit. This analysis aims to extract (non-linear) 
+patterns that will be used to build trading strategies from the analysis of 
+Table 1 compares the major types of analysis. The table indicates that 
+technical analysis predicts price movement by employing price charts, 
+other hand, fundamental analysis is focused on economic analysis, 
+automate the trading process. Algorithm trading is often characterized 
+historical data. Backtesting allows traders to fine-tune and enhance their 
+models and tactics. 
+Algorithmic trading employs models that adhere to predetermined 
+strategies. These models can include basic yet successful tactics such as 
+complicated models has been possible with AI approaches. These models 
+testing a machine learning model to minimize overfitting and fine-tune 
+frequently continued by simulated trading using real-time data. If this 
+continues to be effective, the algorithm will most likely be deployed to 
+Fig. 2. Trading Analysis.  
+Comparison between Fundamental and Technical Analysis.   
+Fundamental Analysis 
+Technical Analysis 
+historical and current data is 
+historical data from the past. 
+AI in financial trading were reviewed. Only survey articles that study AI 
+in financial markets are Several surveys for AI in financial trading have 
+pilot survey on using machine learning for quantitative trading. The 
+including price trends, forecasting, and portfolio selections. In addition, 
+analysis, and text mining for learning portfolio selection. 
+bibliographic analysis highlighting machine-learning approaches for 
+forecasting financial market values. The authors analyzed 57 articles, 
+and their findings revealed that the most commonly employed models in 
+price forecasting are support vector machines and neural networks. 
+data from developing markets provides a research opportunity. 
+The forecasting methodologies are classified, characterized, and 
+compared from 2014 to 2018. Their study and analysis show that 
+ensemble models have highly predictive predictions. Surprisingly, they 
+claim that deep learning models did not beat traditional methods, which 
+2021) give another evaluation covering a wide range of works from 
+1995 to 2019 investigating AI in stock market trading. The authors 
+classified AI applications in the stock market into four categories: 
+portfolio optimization, stock market prediction using AI, financial 
+sentiment analysis, and combinations of two or more methodologies. 
+learning techniques: Artificial Neural Networks (ANN) and Support 
+and AI, such as the following (Le et al., 2020; Chopra and Sharma, Nov. 
+Another part of the survey used deep learning and deep reinforce-
+hand, did a thorough literature review on deep learning and technical 
+analysis in the stock market. Their systematic study focuses on four 
+areas: price forecasting approach, trading strategy, profit evaluation and 
+measures, and risk management. According to their fin
