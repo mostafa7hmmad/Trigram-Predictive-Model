@@ -1,2 +1,2 @@
-# Trigram-Predictive-Model
-In This Case I Build Model To Predict Trigram That Contain From 3 Words Using NlTK And Math Library To Preprocessing My Text And Cleaning To Get Best Accuracy Prediction
+# Trigram-Model
+This project showcases a trigram-based language model using Python libraries like collections and math. It features autocomplete functionality and perplexity calculations for sequences of three words. A user-friendly interface, built with Streamlit, allows users to input two words and receive a prediction for the third. This project highlights the practical application of n-gram models in natural language processing." Does that fit your project?
